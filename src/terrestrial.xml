@@ -4163,4 +4163,8 @@
 		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
 	</terrestrial>
+	<terrestrial name="Malaysia, Lumut: DVB-T/T2" flags="5" countrycode="MYS">
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" system="1" plp_id="1"/>
+	</terrestrial>
 </locations>
